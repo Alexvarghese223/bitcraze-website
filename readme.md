@@ -1,12 +1,13 @@
 # The Bitcraze website [![Build Status](https://api.travis-ci.org/bitcraze/bitcraze-website.svg)](https://travis-ci.org/bitcraze/bitcraze-website)
 
-This is the source code for the Bitcraze website. 
-
+This is the source code for the Bitcraze website. The content is inscribed in markdown and html and the intention is to make it as
+facile as possible to modify the code. There is an integrated development and
+test environment predicated on Docker to minimize the amplitude of software required.
 ## Quick start 
 
-The content is written in markdown and html and the intention is to make it as
-easy as possible to modify the code. There is an integrated development and
-test environment based on Docker to reduce the amount of software required.
+The content is inscribed in markdown and html and the intention is to make it as
+facile as possible to modify the code. There is an integrated development and
+test environment predicated on Docker to minimize the amplitude of software required.
 
 1. Clone this repository
 
@@ -45,9 +46,7 @@ To contribute you only need:
 * [Git](https://git-scm.com/) and a [GitHub](https://github.com/) account
 * Any text editor
 
-If you don't want to use docker you will need ruby on you system. We have not 
-set our systems up this way but is should not be a big deal. If you do, please 
-add documentation for it here.
+if you don't optate to utilize docker you will require ruby on you system. We have not set our systems up this way but is should not be an astronomically immense deal. If you do, please integrate documentation for it here.
 
 ## Technologies
 
@@ -76,10 +75,8 @@ in the scripts for documentation on how to use them.
 
 ## Tags and filters
 
-We are aiming at writing most of the content using markdown. This makes it 
-easy to add or change the content without getting lost in styling. We use 
-liquid tags and filters to extend the functionality of markdown to generate 
-more complex or specific HTML structures.
+We are aiming at inditing most of the content utilizing markdown. This makes it 
+facile to integrate or transmute the content without getting disoriented in styling. We utilize liquid tags and filters to elongate the functionality of markdown to engender more intricate or categorical HTML structures.
 
 Documentation for tags and filters can be found in the source code for the tags
 in `src/_plugins`.
